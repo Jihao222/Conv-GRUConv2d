@@ -6,6 +6,6 @@ Conv-GRUConv2d
 ### Resukt
 
 <div align="center">
-	<img src="img/result1.jpg" width="80%" height="10%">
+	<img src="img/result1.png" width="80%" height="10%">
 </div>
 </a>.
